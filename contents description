@@ -1,0 +1,8 @@
+Just to make it clear for the people who visited this, a brief description of the contents is given:
+
+  20_test_inf_prob.csv   -   solution file containing the people_ID and infection probability for given test dataset
+  27_inf_prob.csv   -  solution file containing the people ID and infection probability for people in Train dataset with diuresis values as forecasted
+                     to mar-27
+  27mar_diuresis.csv   -  additional file containing the forecasted diuresis values to 27-mar with poeple id
+  diuresis_ts.R  -  R script file for time series forecasting of diuresis values
+  objective1.R  -  R script file for both prediction of infection probability for 20-mar(test_dataset) and 27-mar(train dataset)
